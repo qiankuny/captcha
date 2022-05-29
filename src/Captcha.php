@@ -3,7 +3,7 @@
 // | 图形验证 base64 JWT
 // +----------------------------------------------------------------------
 
-namespace qiankuny\captcha;
+namespace Qiankuny\Captcha;
 
 use Exception;
 use Firebase\JWT\JWT;
