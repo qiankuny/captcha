@@ -1,19 +1,19 @@
 {
     "name": "qiankuny/captcha",
     "description": "基于base64位和jwt验证的图形验证码",
-    "authors": [
-        {
-            "name": "qiankuny",
-            "email": "qiankuny@163.com"
-        }
-    ],
-    "license": "Apache-2.0",
+    "type": "library",
     "require": {
         "firebase/php-jwt": "^6.2"
     },
     "autoload": {
         "psr-4": {
-            "qiankuny\\captcha\\": "src/"
+            "Qiankuny\\Captcha\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "qiankuny",
+            "email": "qiankuny@163.com"
+        }
+    ]
 }
