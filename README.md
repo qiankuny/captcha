@@ -1,4 +1,4 @@
-# think-captcha
+# captcha
 
 验证码类库
 
